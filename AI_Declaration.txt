@@ -1,0 +1,7 @@
+Name: Radito Dhali
+ID: 24141150
+
+
+1. Google Stitch has been used to generate the wireframe diagram ... The requirement and how I want the UI to look like was extensively edited and intervened properly.
+
+2. Mermaid and ChatGPT has been used to draw and understand how to design the database. GPT helped me to shape database and how to implement it.
